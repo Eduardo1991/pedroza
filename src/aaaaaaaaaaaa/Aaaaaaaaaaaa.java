@@ -5,6 +5,17 @@ public class Aaaaaaaaaaaa {
 
   
     public static void main(String[] args) {
-   //no me gusta el codigo asi que lo borre 
+     ///esto es una prueba
+        String eduardo;
+        int numero;
+        //esto es la segunda modificasion
+    }
+
+    public Aaaaaaaaaaaa() {
+    }
+
+    public void presio(){
+        
+    }
     
 }
